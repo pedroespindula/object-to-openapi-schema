@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "json-schema-to-openapi-schema": "^0.4.0",
+    "node-fetch": "^2.6.0",
     "to-json-schema": "^0.2.5"
   }
 }
